@@ -17,6 +17,8 @@ The subject of this dissertation is the visual identity system of the Museum of 
 
 [![DOI](https://zenodo.org/badge/1130579287.svg)](https://doi.org/10.5281/zenodo.18188383)
 
+https://zenodo.org/badge/1130579287.svg
+
 ---
 
 ## Files
