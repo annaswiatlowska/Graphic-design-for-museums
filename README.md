@@ -14,6 +14,7 @@ The subject of this dissertation is the visual identity system of the Museum of 
 - **Pages:** 50  
 - **Publisher:** Polish-Japanese Academy of Information Technology in Warsaw  
 - **DOI:** [https://doi.org/10.5281/ZENODO.17349463](https://doi.org/10.5281/ZENODO.17349463)
+[![DOI](https://zenodo.org/badge/1130579287.svg)](https://doi.org/10.5281/zenodo.18188383)
 
 ---
 
